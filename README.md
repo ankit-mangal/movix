@@ -26,8 +26,8 @@ Building this project took me a week and here's what I learned:
 ### 🎣 `useFetch` Hook:
 -By creating this hook I got familier with the idea of creating custom hook and helped me seperate the logic of API calls from the components.
 
-### 🧩 Resuable Code
--Building this project helped me learn about how important it is to build the resuable code as much as possible by dividing the code into components and pass data using props.
+### 🧩 Reusable Code
+-Building this project helped me learn about how important it is to build the reusable code as much as possible by dividing the code into components and pass data using props.
 
 ### 🛒 Redux Toolkit
 -Managing state in react is always been a horror story for me but not this time, I learned to create slices, reducers, and setup the store and provide that store to my react app.
