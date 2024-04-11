@@ -15,6 +15,7 @@ const fetchDataFromApi = async (url, params) => {
     });
     return data;
   } catch (error) {
+    alert("If you are accessing this app inside India, please use a VPN and reload the page, it will start working. Thank you 🙏")
     console.log(error);
     return error;
   }
